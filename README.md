@@ -1,4 +1,4 @@
 # metro
 Metro app
 
-For android
+App for android
